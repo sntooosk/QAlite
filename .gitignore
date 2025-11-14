@@ -5,7 +5,6 @@ dist
 .vite
 .env
 .env.local
-.env.*
 .DS_Store
 .idea
 .vscode
